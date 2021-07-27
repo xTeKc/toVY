@@ -17,6 +17,9 @@ describe("Greeter", function () {
   });
 });
 
+
+//SAMPLE TEST
+
 // import { ethers } from "hardhat";
 // import { Signer } from "ethers";
 
